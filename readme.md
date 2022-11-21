@@ -12,7 +12,7 @@ Regra das unidades de medidas flexíveis, para que usuários que necessitam de t
 /*media queries*/
 ''
 
-[Clique aqui para acessar](https://gracih.github.io/responsividade/)
+[Clique aqui para acessar](https://gracih.github.io/Responsividade/)
 
 ## 👩‍💻 Tecnologias
 
